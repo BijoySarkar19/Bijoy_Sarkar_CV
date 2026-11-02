@@ -4,11 +4,11 @@ Professional CV of **Bijoy Sarkar**, a Computer Science and Engineering undergra
 
 ## CV
 
-[View CV PDF](./Bijoy_Sarkar_CV_Portfolio_Gmail.pdf)
+[View CV PDF](https://github.com/BijoySarkar19/Bijoy_Sarkar_CV/blob/main/Bijoy_Sarkar_CV.pdf)
 
 ## LaTeX Source
 
-[View LaTeX Source](./Bijoy_Sarkar_CV_Portfolio_Gmail.tex)
+[View LaTeX Source](https://github.com/BijoySarkar19/Bijoy_Sarkar_CV/blob/main/main.tex)
 
 ## Portfolio
 
